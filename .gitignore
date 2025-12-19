@@ -11,6 +11,13 @@ cmake-build-*/
 *.user
 
 # Docker
+.vscode/
+build/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 .dockerenv
 .dockerinit
 
