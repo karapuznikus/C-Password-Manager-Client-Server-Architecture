@@ -1,0 +1,22 @@
+# Скомпилированные файлы
+*.exe
+*.dll
+*.so
+*.a
+build/
+cmake-build-*/
+
+# Qt
+*.autosave
+*.user
+
+# Docker
+.dockerenv
+.dockerinit
+
+# IDE
+.vscode/
+.idea/
+
+.env
+config/secrets.json
